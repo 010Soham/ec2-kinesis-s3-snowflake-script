@@ -1,0 +1,1 @@
+# ec2-kinesis-s3-snowflake-script
