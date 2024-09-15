@@ -1,0 +1,3 @@
+awscli==1.19.5
+apache-airflow-providers-snowflake==5.5.0
+snowflake-connector-python==2.7.8
